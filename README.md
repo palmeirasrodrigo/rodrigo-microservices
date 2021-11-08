@@ -1,0 +1,1 @@
+[![Continuous Integration with Github](https://github.com/palmeirasrodrigo/rodrigo-microservices/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/palmeirasrodrigo/rodrigo-microservices/actions/workflows/docker-publish.yml)
